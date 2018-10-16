@@ -6,6 +6,6 @@
   <link rel="stylesheet" href="style.css">
  </head>
  <body>
- <p>План достижения цели</p>
+ <p>План достижение цели</p>
  </body>
 </html>
